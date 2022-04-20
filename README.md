@@ -23,4 +23,4 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Pritam0077&bg_color=11143b&color=96bf4a&line=4c9d9e&point=57f471&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Snake eating my contribution graph
-![snake gif](https://github.com/Pritam0077/Pritam0077/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Pritam0077/Pritam0077/blob/output/github-contribution-grid-snake.svg)
