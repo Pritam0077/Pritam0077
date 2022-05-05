@@ -1,4 +1,5 @@
-<p align="center"><img width="250" alt="image" src="https://user-images.githubusercontent.com/89348093/163747521-ce8ccb90-b9e6-4274-b602-5ddcc70e93a4.png"></p>
+<!-- <p align="center"><img width="250" alt="image" src="https://user-images.githubusercontent.com/89348093/163747521-ce8ccb90-b9e6-4274-b602-5ddcc70e93a4.png"></p> -->
+<p align="center"><img width="200" height="200" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></p>
 
 <h1 align="center">Hi 👋, I'm Pritam Panda</h1>
 <h3 align="center">A passionate Web and open source enthusiast from India</h3>
