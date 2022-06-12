@@ -4,8 +4,11 @@
 <h1 align="center">Hi 👋, I'm Pritam Panda</h1>
 <h3 align="center">A passionate Web and open source enthusiast from India</h3>
 
-- 🌱 I’m currently learning **Web Develpment**
-
+- 👋 Hey,I'm Pritam(Pritam0077)
+- 🏦 I'm a 2nd Year Student in Institute of technical education and research(Soa University)
+- 📕 I am enrolled in Bachelor's of technology in Computer Science Engineering(Cse)
+- 🌱 I’m currently learning **Python**
+- 📩 Ask me anything [here](https://discord.com/channels/@me)
 - 📫 How to reach me: **pritampanda777@gmail.com**
 
 <h3 align="left">Connect with me</h3>
