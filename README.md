@@ -8,7 +8,7 @@
 - 🏦 I'm a 2nd Year Student in Institute of technical education and research(Soa University)
 - 📕 I am enrolled in Bachelor's of technology in Computer Science Engineering(Cse)
 - 🌱 I’m currently learning **Python**
-- 📩 Ask me anything [here](https://discord.com/channels/@me)
+- 📩 Ask me anything <a href="https://discord.com/channels/@me" target=blank>here</a>
 - 📫 How to reach me: **pritampanda777@gmail.com**
 
 <h3 align="left">Connect with me</h3>
