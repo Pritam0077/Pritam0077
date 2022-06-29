@@ -8,8 +8,6 @@
      name: Make gitartwork SVG
      runs-on: ubuntu-latest
      steps:
-       - name: gitartwork on contribution graph
-         uses: jasineri/gitartwork@v1
        - uses: actions/checkout@v3
        - uses: jasineri/gitartwork@v1
          with:
