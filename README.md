@@ -10,9 +10,8 @@
 - 🌱 I’m currently learning **Python**
 - 📩 Ask me anything <a href="https://discord.com/channels/@me" target="_blank">here</a>
 - 📝 I regularly write articles on [https://pritam0077.hashnode.dev/](https://pritam0077.hashnode.dev/)
-- 📫 How to reach me: **pritampanda777@gmail.com**
 
-### Blogs posts
+### Latest Blogs posts📕
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
