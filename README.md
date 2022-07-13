@@ -9,7 +9,7 @@
 - 📕 I am enrolled in Bachelor's of technology in Computer Science Engineering(Cse)
 - 🌱 I’m currently learning **Python**
 - 📩 Ask me anything <a href="https://discord.com/channels/@me" target="_blank">here</a>
-- 📝 I regularly write articles on [https://pritam0077.hashnode.dev/](https://pritam0077.hashnode.dev/)
+- 📝 I regularly write articles on [Hashnode](https://pritam0077.hashnode.dev/),[Medium](https://medium.com/@pritampanda777)
 
 ### Latest Blogs posts📕
 <!-- BLOG-POST-LIST:START -->
@@ -25,6 +25,7 @@
 <a href="https://instagram.com/pritam._.007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pritam._.007" height="30" width="40" /></a>
 <a href="https://hashnode.com/@pritam0077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@pritam0077" height="30" width="40" /></a>
 <a href="/https://pritam0077.hashnode.dev/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://pritam0077.hashnode.dev/rss.xml" height="30" width="40" /></a>
+<a href="https://Medium.com/@pritampanda777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pritampanda777" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools</h3>
