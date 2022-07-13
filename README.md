@@ -13,6 +13,7 @@
 
 ### Latest Blogs posts📕
 <!-- BLOG-POST-LIST:START -->
+- [Echo &quot;What is Linux 🐧? Why the heck do we need it?&quot;](https://pritam0077.hashnode.dev/echo-what-is-linux-why-the-heck-do-we-need-it)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> <a href="https://twitter.com/pritam_0077" target="blank"><img src="https://img.shields.io/twitter/follow/pritam_0077?logo=twitter&style=for-the-badge" alt="pritam_0077" /></a> </p>
