@@ -13,6 +13,7 @@
 
 ### Latest Blogs posts📕
 <!-- BLOG-POST-LIST:START -->
+- [Basic Linux Commands&lpar;Part-3&rpar;](https://pritam0077.hashnode.dev/basic-linux-commandspart-3)
 - [Basic Linux Commands &lpar;Part-2&rpar;](https://pritam0077.hashnode.dev/basic-linux-commands-part-2)
 - [Basic Linux Commands &lpar;Part-1&rpar;](https://pritam0077.hashnode.dev/basic-linux-commands-part-1)
 - [Echo &quot;What is Linux 🐧? Why the heck do we need it?&quot;](https://pritam0077.hashnode.dev/echo-what-is-linux-why-the-heck-do-we-need-it)
