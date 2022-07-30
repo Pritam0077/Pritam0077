@@ -13,6 +13,7 @@
 
 ### Latest Blogs posts📕
 <!-- BLOG-POST-LIST:START -->
+- [What are Processes in Linux?- Internal working of Linux](https://pritam0077.hashnode.dev/what-are-processes-in-linux-internal-working-of-linux)
 - [Basic Linux Commands&lpar;Part-3&rpar;](https://pritam0077.hashnode.dev/basic-linux-commandspart-3)
 - [Basic Linux Commands &lpar;Part-2&rpar;](https://pritam0077.hashnode.dev/basic-linux-commands-part-2)
 - [Basic Linux Commands &lpar;Part-1&rpar;](https://pritam0077.hashnode.dev/basic-linux-commands-part-1)
