@@ -13,11 +13,11 @@
 
 ### Latest Blogs posts📕
 <!-- BLOG-POST-LIST:START -->
+- [Meme-Generator-App AWS Amplify Hackathon](https://pritam0077.hashnode.dev/meme-generator-app-aws-amplify-hackathon)
 - [All about HTTP&lpar;s&rpar;](https://pritam0077.hashnode.dev/all-about-https)
 - [System calls, Kernel, and init implementation in Linux](https://pritam0077.hashnode.dev/system-calls-kernel-and-init-implementation-in-linux)
 - [What are Processes in Linux?- Internal working of Linux](https://pritam0077.hashnode.dev/what-are-processes-in-linux-internal-working-of-linux)
 - [Basic Linux Commands&lpar;Part-3&rpar;](https://pritam0077.hashnode.dev/basic-linux-commandspart-3)
-- [Basic Linux Commands &lpar;Part-2&rpar;](https://pritam0077.hashnode.dev/basic-linux-commands-part-2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> <a href="https://twitter.com/pritam_0077" target="blank"><img src="https://img.shields.io/twitter/follow/pritam_0077?logo=twitter&style=for-the-badge" alt="pritam_0077" /></a> </p>
