@@ -27,6 +27,7 @@
 <a href="https://linkedin.com/in/pritam-panda-242892215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pritam-panda-242892215" height="30" width="40" /></a>
 <a href="https://instagram.com/pritam._.007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pritam._.007" height="30" width="40" /></a>
 <a href="https://hashnode.com/@pritam0077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@pritam0077" height="30" width="40" /></a>
+
 <a href="/https://pritam0077.hashnode.dev/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://pritam0077.hashnode.dev/rss.xml" height="30" width="40" /></a>
 <a href="https://Medium.com/@pritampanda777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pritampanda777" height="30" width="40" /></a>
 </p>
@@ -46,3 +47,4 @@
 ## Snake eating my contribution graph
 
 ![Snake GIF](https://github.com/Pritam0077/Pritam0077/blob/output/github-contribution-grid-snake.svg)
+[![@pritam0077's Holopin board](https://holopin.me/pritam0077)](https://holopin.io/@pritam0077)
