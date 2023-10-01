@@ -42,7 +42,7 @@
 <p align=center><img src="gitartwork.svg"></p>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pritam0077&bg_color=22111a&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pritam0077&bg_color=ffeed1&color=9e4c4c&line=9e4c4c&point=413e3e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Snake eating my contribution graph
 
