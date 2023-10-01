@@ -5,8 +5,8 @@
 <h3 align="center">A passionate Web and open source enthusiast from India</h3>
 
 - 👋 Hey,I'm Pritam(Pritam0077)
-- 🏦 I'm a 3rd Year Student in Institute of technical education and research(Soa University)
-- 📕 I am enrolled in Bachelor's of technology in Computer Science Engineering(Cse)
+- 🏦 I'm a 4th Year Student in Institute of technical education and research(Soa University)
+- 📕 I am enrolled in Bachelor of Technology in Computer Science Engineering(CSE)
 - 🌱 I’m currently learning **Python**
 - 📩 Ask me anything <a href="https://discord.com/channels/@me" target="_blank">here</a>
 - 📝 I regularly write articles on [Hashnode](https://pritam0077.hashnode.dev/),[Medium](https://medium.com/@pritampanda777)
