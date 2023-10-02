@@ -14,7 +14,6 @@
 ### Latest Blogs posts📕
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Meme-Generator-App AWS Amplify Hackathon](https://pritam0077.hashnode.dev/meme-generator-app-aws-amplify-hackathon)
 - [All about HTTP&lpar;s&rpar;](https://pritam0077.hashnode.dev/all-about-https)
 - [System calls, Kernel, and init implementation in Linux](https://pritam0077.hashnode.dev/system-calls-kernel-and-init-implementation-in-linux)
