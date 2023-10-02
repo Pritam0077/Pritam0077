@@ -12,7 +12,9 @@
 - 📝 I regularly write articles on [Hashnode](https://pritam0077.hashnode.dev/),[Medium](https://medium.com/@pritampanda777)
 
 ### Latest Blogs posts📕
+
 <!-- BLOG-POST-LIST:START -->
+
 - [Meme-Generator-App AWS Amplify Hackathon](https://pritam0077.hashnode.dev/meme-generator-app-aws-amplify-hackathon)
 - [All about HTTP&lpar;s&rpar;](https://pritam0077.hashnode.dev/all-about-https)
 - [System calls, Kernel, and init implementation in Linux](https://pritam0077.hashnode.dev/system-calls-kernel-and-init-implementation-in-linux)
@@ -30,6 +32,7 @@
 
 <a href="/https://pritam0077.hashnode.dev/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://pritam0077.hashnode.dev/rss.xml" height="30" width="40" /></a>
 <a href="https://Medium.com/@pritampanda777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pritampanda777" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="center">Languages and Tools</h3>
@@ -40,7 +43,6 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pritam0077&theme=dark&hide_border=true" alt="pritam0077" /></p>
 
 <p align=center><img src="gitartwork.svg"></p>
-
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pritam0077&bg_color=ffeed1&color=9e4c4c&line=9e4c4c&point=413e3e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
