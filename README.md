@@ -9,17 +9,17 @@
 - 📕 I am enrolled in Bachelor of Technology in Computer Science Engineering(CSE)
 - 🌱 I’m currently learning **Python**
 - 📩 Ask me anything <a href="https://discord.com/channels/@me" target="_blank">here</a>
-- 📝 I regularly write articles on [Hashnode](https://pritam0077.hashnode.dev/),[Medium](https://medium.com/@pritampanda777)
+ <!--- 📝 I regularly write articles on [Hashnode](https://pritam0077.hashnode.dev/),[Medium](https://medium.com/@pritampanda777)
 
 ### Latest Blogs posts📕
 
-<!-- BLOG-POST-LIST:START -->
+BLOG-POST-LIST:START
 - [Meme-Generator-App AWS Amplify Hackathon](https://pritam0077.hashnode.dev/meme-generator-app-aws-amplify-hackathon)
 - [All about HTTP&lpar;s&rpar;](https://pritam0077.hashnode.dev/all-about-https)
 - [System calls, Kernel, and init implementation in Linux](https://pritam0077.hashnode.dev/system-calls-kernel-and-init-implementation-in-linux)
 - [What are Processes in Linux?- Internal working of Linux](https://pritam0077.hashnode.dev/what-are-processes-in-linux-internal-working-of-linux)
 - [Basic Linux Commands&lpar;Part-3&rpar;](https://pritam0077.hashnode.dev/basic-linux-commandspart-3)
-<!-- BLOG-POST-LIST:END -->
+BLOG-POST-LIST:END -->
 
 <p align="left"> <a href="https://twitter.com/pritam_0077" target="blank"><img src="https://img.shields.io/twitter/follow/pritam_0077?logo=twitter&style=for-the-badge" alt="pritam_0077" /></a> </p>
 <h3 align="left">Connect with me</h3>
